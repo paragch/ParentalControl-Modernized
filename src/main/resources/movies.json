@@ -1,0 +1,112 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Baby's Day Out",
+      "rating": "U",
+      "genre": "Comedy",
+      "releaseYear": 1994,
+      "description": "A baby's adventures after being accidentally left alone in the city"
+    },
+    {
+      "id": 2,
+      "title": "Notting Hill",
+      "rating": "PG_13",
+      "genre": "Romance",
+      "releaseYear": 1999,
+      "description": "A romantic comedy about a bookshop owner who falls in love with a famous actress"
+    },
+    {
+      "id": 3,
+      "title": "The Lion King",
+      "rating": "PG",
+      "genre": "Animation",
+      "releaseYear": 1994,
+      "description": "A young lion prince's journey to reclaim his kingdom"
+    },
+    {
+      "id": 4,
+      "title": "Inception",
+      "rating": "PG_13",
+      "genre": "Sci-Fi",
+      "releaseYear": 2010,
+      "description": "A thief who enters dreams to steal secrets gets a chance to have his criminal record erased"
+    },
+    {
+      "id": 5,
+      "title": "The Matrix",
+      "rating": "R",
+      "genre": "Action",
+      "releaseYear": 1999,
+      "description": "A computer programmer discovers reality is a simulation"
+    },
+    {
+      "id": 6,
+      "title": "Finding Nemo",
+      "rating": "U",
+      "genre": "Animation",
+      "releaseYear": 2003,
+      "description": "A clownfish searches for his missing son across the ocean"
+    },
+    {
+      "id": 7,
+      "title": "The Dark Knight",
+      "rating": "PG_13",
+      "genre": "Action",
+      "releaseYear": 2008,
+      "description": "Batman faces his greatest challenge yet in the form of the Joker"
+    },
+    {
+      "id": 8,
+      "title": "Deadpool",
+      "rating": "R",
+      "genre": "Action",
+      "releaseYear": 2016,
+      "description": "A former Special Forces operative becomes a mercenary with accelerated healing powers"
+    }
+  ],
+  "ratings": [
+    {
+      "code": "U",
+      "displayName": "Universal",
+      "description": "Suitable for all ages",
+      "minimumAge": 0
+    },
+    {
+      "code": "PG",
+      "displayName": "Parental Guidance",
+      "description": "General viewing, some scenes may be unsuitable for young children",
+      "minimumAge": 8
+    },
+    {
+      "code": "PG_13",
+      "displayName": "Parental Guidance 13",
+      "description": "Some material may be inappropriate for children under 13",
+      "minimumAge": 13
+    },
+    {
+      "code": "TWELVE",
+      "displayName": "12",
+      "description": "Suitable only for persons of 12 years and over",
+      "minimumAge": 12
+    },
+    {
+      "code": "FIFTEEN",
+      "displayName": "15",
+      "description": "Suitable only for persons of 15 years and over",
+      "minimumAge": 15
+    },
+    {
+      "code": "EIGHTEEN",
+      "displayName": "18",
+      "description": "Suitable only for persons of 18 years and over",
+      "minimumAge": 18
+    },
+    {
+      "code": "R",
+      "displayName": "Restricted",
+      "description": "Under 17 requires accompanying parent or adult guardian",
+      "minimumAge": 17
+    }
+  ]
+}
